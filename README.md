@@ -1,2 +1,2 @@
 # aws-devops-project-retail-app
- Sample application for demonstrating Devops Technology
+ https://hub.docker.com/repository/docker/sameecaa/retail-shop-app/general 
